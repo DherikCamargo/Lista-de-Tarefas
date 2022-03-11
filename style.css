@@ -1,0 +1,51 @@
+body{
+    background-color:rgb(0, 0, 0)
+}
+
+.container{
+    background-color:white;
+    width: 40rem;
+    height:10rem
+}
+
+.barradlista{
+    margin: 1px;
+    margin-left: 1rem
+}
+
+.btn-tarefa{
+    margin-left: 1rem;
+    height: 2rem;
+ }
+
+
+.botaolaranja{      
+
+    border-radius: 30px;
+    height: 1rem;
+    background-color: orange;
+ }
+.botaoverde{      
+
+    border-radius: 30px;
+    height: 1rem;
+    background-color: aqua;
+ }
+.botaorosa{      
+
+    border-radius: 30px;
+    height: 1rem;
+    background-color:pink
+ }
+.botaoblack{      
+
+    border-radius: 30px;
+    height: 1rem;
+    background-color:black
+ }
+
+
+
+ .Apagar{ 
+     margin:2rem
+ }
