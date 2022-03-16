@@ -4,9 +4,8 @@ body{
 
 .container{
     background-color:white;
-    width: 40rem;
+    width: fixed;
     height:fixed;
-    margin-left: 3rem;
     padding: auto;
     
 }
