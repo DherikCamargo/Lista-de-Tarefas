@@ -5,7 +5,12 @@ body{
 .container{
     background-color:white;
     width: 40rem;
-    height:10rem
+    height:fixed;
+    margin-left: 3rem;
+    padding: auto;
+    
+    padding: auto;
+
 }
 
 .barradlista{
@@ -45,7 +50,7 @@ body{
  }
 
 
-
- .Apagar{ 
-     margin:2rem
- }
+ .apagar{ 
+     height: 1.3rem;
+     margin-top:0.55rem;
+     }
